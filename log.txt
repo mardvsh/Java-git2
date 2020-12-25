@@ -1,0 +1,5 @@
+commit 65692795a039b8d68dddd090244c982400eb0678
+Author: Marina <marina-mukhina@inbox.ru>
+Date:   Fri Dec 25 16:52:42 2020 +0300
+
+    Add file .gitignore
